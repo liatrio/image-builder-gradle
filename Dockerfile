@@ -1,2 +1,2 @@
-FROM gradle:7.4-jdk8
+FROM gradle:7.6-jdk8
 
